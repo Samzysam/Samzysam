@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Samzysam
-- 👀 I’m interested in Learning more about coding
-- 🌱 I’m currently learning web development
-  
 I'm still learning and experimenting with web development
 
 <!---
